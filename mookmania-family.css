@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'mookmania';
-    src: url('mookmania_bold_italic-webfont.woff2') format('woff2');
+    src: url('https://github.com/Tralossk/fonts/blob/main/mookmania_bold_italic-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
 
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'mookmania';
-    src: url('mookmania_bold-webfont.woff2') format('woff2');
+    src: url('https://github.com/Tralossk/fonts/blob/main/mookmania_bold-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 
@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: 'mookmania';
-    src: url('mookmania_italic-webfont.woff2') format('woff2');
+    src: url('https://github.com/Tralossk/fonts/blob/main/mookmania_italic-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 
@@ -37,7 +37,7 @@
 
 @font-face {
     font-family: 'mookmania';
-    src: url('mookmania-webfont.woff2') format('woff2');
+    src: url('https://github.com/Tralossk/fonts/blob/main/mookmania-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
